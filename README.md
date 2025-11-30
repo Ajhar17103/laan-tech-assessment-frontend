@@ -147,18 +147,18 @@ This project provides APIs to manage products with images efficiently. It allows
  
 
 #### Single Product Upload
-![img_3.png](img_3.png)
+![image1](image.png)
 
 #### Bulk Product Upload
-![img_4.png](img_4.png)
+![img_1.png]!(image-1.png)
 
 ### Product View
 
-![img_5.png](img_5.png)
+![img_5.png](image-2.png)
 
 ### Product List
 
-![img_6.png](img_6.png)
+![img_6.png](image-3.png)
 
 
 ## Future Scope
