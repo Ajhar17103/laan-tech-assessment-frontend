@@ -150,7 +150,7 @@ This project provides APIs to manage products with images efficiently. It allows
 ![image1](image.png)
 
 #### Bulk Product Upload
-![img_1.png]!(image-1.png)
+![img_1.png](image-1.png)
 
 ### Product View
 
